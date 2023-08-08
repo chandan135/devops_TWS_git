@@ -12,3 +12,9 @@ git log --oneline
 git log --oneline --pretty
 git config --global user.name "user_name"
 git config --global user.email "user_email"
+git clone
+git pull(this command pulls the changes done on the same branch)
+git fetch(fetches all the changes done on all the branch)
+git remote -v
+git remote set-origin
+git push
